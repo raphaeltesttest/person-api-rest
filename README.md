@@ -1,6 +1,4 @@
-Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot versão 2.5.3</h2>
-
-Neste pequeno sistema de gerenciamento de pessoas foram desenvolvidos e abordados os seguintes tópicos:
+Sistema de gerenciamento de pessoas em API REST com Spring Boot versão 2.5.3</h2>
 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
 * Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
