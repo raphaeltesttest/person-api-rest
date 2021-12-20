@@ -1,4 +1,4 @@
-<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot versão 2.5.3</h2>
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot versão 2.5.3</h2>
 
 Neste pequeno sistema de gerenciamento de pessoas foram desenvolvidos e abordados os seguintes tópicos:
 
